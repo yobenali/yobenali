@@ -4,7 +4,7 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/yobenali" alt="yobenali's 42 stats" /></a>
 
 
-- 🌱 I’m currently learning **Vue.js, Angular**
+- 🌱 I’m currently learning **Vue.js, Node JS**
 
 - 💬 Ask me about **react, c, c++**
 
