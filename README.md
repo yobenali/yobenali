@@ -6,7 +6,7 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/yobenali" alt="yobenali's 42 stats" /></a>
 
 
-- 🌱 I’m currently learning **Node.js, Angular**
+- 🌱 I’m currently learning **Express.js, Next.js**
 
 - 💬 Ask me about **react.js, c, c++**
 
