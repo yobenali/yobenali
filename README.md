@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Express.js, Next.js**
 
-- 💬 Ask me about **react.js, c, c++**
+- 💬 Ask me about **react.js, Ts, c, c++**
 
 - 📫 How to reach me **youssef.benali.rahim@gmail.com**
 
