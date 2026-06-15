@@ -1,126 +1,193 @@
 <h1 align="center">Hi 👋, I'm Youssef Benali</h1>
-<h3 align="center">Software Engineer (Systems + Web/Mobile) | 1337 Graduate | Morocco</h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yobenali" alt="yobenali trophies" />
-  </a>
-</p>
-
-<a href="https://badge.mediaplus.ma/greenbinary/yobenali">
-  <img src="https://badge.mediaplus.ma/greenbinary/yobenali" alt="yobenali's 42 stats" />
-</a>
-
----
-
-### 💼 What I Do
-
-Software Engineer from **1337 (42 Network)** with a strong foundation in **systems programming, networking, and algorithms**.  
-I build **scalable web and mobile applications** using **React, Next.js, and React Native**, and also enjoy low‑level systems projects in **C/C++ on Linux**.
-
-I’ve worked on **production‑grade features for Obens**, a **SaaS startup focused on supply‑chain transparency and traceability**, where I used **React Native, Next.js, Docker, and analytics‑driven development** to ship user‑facing products under tight startup constraints. [web:6]
-
----
-
-### 🚀 Tech Stack
-
-- **Languages:** C, C++, JavaScript (ES6+), TypeScript  
-- **Frontend & Mobile:** React, React Native, Next.js, Tailwind, Redux  
-- **Backend & APIs:** REST APIs, SQLite  
-- **Systems & DevOps:** Linux, Socket Programming, Docker, Nginx, Git, GTM  
-
----
-
-### 🌱 What I’m Focusing On
-
-- Finishing a personal project in hand, then **deepening my backend skills with Python and Django**.  
-- Improving **architecture, performance, and dev‑ops practices** (Dockerized workflows, CI‑style environments, analytics‑driven iteration).
-
----
-
-### 💬 Ask Me About
-
-- **React / Next.js / React Native** – building performant, scalable web and mobile apps.  
-- **C / C++ / Linux** – systems programming, networking, and low‑level concepts.  
-- **Docker / Git / Nginx** – deployment workflows and infrastructure‑style thinking.
-
----
-
-### 📫 How to Reach Me
-
-- **Email:** youssef.benali.rahim@gmail.com  
-- **LinkedIn:** [linkedin.com/in/benaliyoussef](https://linkedin.com/in/benaliyoussef)
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/benaliyoussef" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="left">Technologies I Use</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-</p>
-
----
-
-<h3 align="left">Featured Projects</h3>
-<p align="center">
-  A few of my favorite projects that showcase my range:
-</p>
-
-- **[Transcendence](https://github.com/yobenali/transcendence)** – Real‑time multiplayer web platform using React + WebSockets.  
-- **[Inception](https://github.com/yobenali/inception)** – Dockerized infrastructure with Nginx, TLS, and service orchestration.  
-- **[WebServ](https://github.com/yobenali/webserv)** – HTTP/1.1 server implemented from scratch in C, with socket multiplexing.
-
----
+<h3 align="center">
+Software Engineer | React • Next.js • React Native • Flutter • TypeScript
+</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yobenali&show_icons=true&locale=en&layout=compact" alt="yobenali" />
+Building web and mobile applications with a focus on performance, user experience, and business impact.
 </p>
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yobenali&show_icons=true&theme=radical" alt="yobenali stats" />
+  <a href="mailto:youssef.benali.rahim@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/benaliyoussef">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+Software Engineer with experience building and maintaining production web and mobile applications.
+
+My background combines modern frontend engineering with a strong foundation in systems programming from 1337 (42 Network).
+
+I enjoy building products that are performant, scalable, maintainable, and focused on solving real business problems.
+
+### What I bring
+
+* 📱 Cross-platform mobile development
+* 🌐 Modern web application development
+* ⚡ Performance optimization & SEO
+* 📊 Analytics & product-driven engineering
+* 🐳 Dockerized environments and deployment workflows
+* 🔧 Systems programming and networking foundations
+
+---
+
+# 🚀 Professional Experience
+
+### SaaS Product Development
+
+Worked on production-grade web and mobile applications used by real customers.
+
+Key contributions include:
+
+* Building and maintaining React Native mobile applications
+* Developing modern Next.js web platforms
+* Performance optimization and SEO improvements
+* Analytics and tracking integrations
+* Feature delivery in fast-moving startup environments
+* Cross-team collaboration with product and business stakeholders
+
+---
+
+# 💡 Core Strengths
+
+✅ React & Next.js Development
+
+✅ React Native Mobile Applications
+
+✅ Flutter & Dart Development
+
+✅ TypeScript & Modern JavaScript
+
+✅ Performance Optimization & SEO
+
+✅ Analytics & Product Engineering
+
+✅ Docker & Linux Workflows
+
+✅ Systems Programming (C/C++)
+
+✅ Fast Learning & Problem Solving
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square\&logo=dart)
+
+### Frontend & Mobile
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square\&logo=redux)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square\&logo=tailwindcss)
+
+### Backend & APIs
+
+![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite)
+
+### DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git)
+
+---
+
+# 🌟 Featured Projects
+
+### 🎮 Transcendence
+
+Real-time multiplayer platform built with modern web technologies.
+
+**Highlights**
+
+* Real-time communication
+* Authentication system
+* Frontend architecture
+* Team collaboration
+* Full-stack integration
+
+---
+
+### 🐳 Inception
+
+Docker-based infrastructure project inspired by production environments.
+
+**Highlights**
+
+* Container orchestration
+* Nginx configuration
+* TLS setup
+* Service isolation
+* Infrastructure fundamentals
+
+---
+
+### 🌐 WebServ
+
+HTTP server built from scratch in C++.
+
+**Highlights**
+
+* Socket programming
+* HTTP protocol implementation
+* Request handling
+* Performance optimization
+* Systems-level engineering
+
+---
+
+# 🎯 Current Focus
+
+* Building high-quality web and mobile applications
+* Improving software architecture skills
+* Backend development with Python
+* AI-assisted development workflows
+* Cloud and DevOps practices
+
+---
+
+# 📬 Open To Opportunities
+
+Interested in:
+
+* Frontend Engineering
+* React / Next.js Development
+* React Native Development
+* Flutter Development
+* Full Stack JavaScript Roles
+* Software Engineering Opportunities
+
+### Contact
+
+📧 **[youssef.benali.rahim@gmail.com](mailto:youssef.benali.rahim@gmail.com)**
+
+💼 **LinkedIn**
+https://linkedin.com/in/benaliyoussef
+
+🌍 **Location**
+Morocco
+
+---
+
+<p align="center">
+  <i>"Building software that combines performance, scalability, and great user experience."</i>
 </p>
